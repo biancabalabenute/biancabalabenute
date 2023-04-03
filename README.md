@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bianca Balabenute 👋
 
-- 🔭 Atualmente sou estudande de Análise e Desenvolvimento de Sistemas
-- 🌱 Estou estudando JavaScript no momento
+- 🔭 Sou estudande de Análise e Desenvolvimento de Sistemas
+- 🌱 Atualmente estou aprendendo Java com SpringBoot
 
 <div>
 <a href="https://www.instagram.com/bianca_balabenute/" ><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
